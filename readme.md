@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a LLM based HR App<br>👯 Looking to work in FullStack+LLM niche<br>🌱 Learning about Mcps<br>⚡ Into music
+👯 Looking to work in FullStack+LLM niche<br>🌱 Learning about Mcps<br>⚡ Into music
 
 
 ## 🌐 Socials:
